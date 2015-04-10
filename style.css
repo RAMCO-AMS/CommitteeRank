@@ -1,0 +1,33 @@
+/* title */
+h1
+{
+color: #000000;
+font-size: 32pt;
+font-weight: bold;
+font-family: helvetica;
+text-decoration: none;
+}
+
+/* Rankable element div for Rank, HTML form rank  */
+/* Container div for Rank, HTML form rank selector */
+ul
+{
+position: relative;
+width: auto; 
+height: auto;
+padding: 8px;
+list-style-type: none;
+}
+
+
+li
+{
+position: relative;
+width: 300px; height: auto;
+margin: 3px;
+padding: 3px;
+background: #671A90;
+color: #ffffff;
+ cursor: pointer;
+}
+
